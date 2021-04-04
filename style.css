@@ -4,6 +4,7 @@
 
 body {
   background-color: lightgrey;
+  max-width: 1366px;
 }
 .row:after {
   content: "";
@@ -102,7 +103,7 @@ html {
 
 .card {
   background-color: rgb(172, 214, 179);
-  height: 28vh;
+  height: 31vh;
   width: 28vw;
   margin: 1vw;
   padding-left: 20px;
